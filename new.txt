@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GUESSING GAME</title>
+<script>
+var color=alert("I am thinking of one of these colors:\n"+"blue,cyan,gold,gray,green,magenta,orange,red,white,yellow.\n"+"What color I am thinking of?");
+</script>
+</head>
+<body onload=color;
+</body>
+</html>
